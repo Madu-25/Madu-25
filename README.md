@@ -1,16 +1,35 @@
-## Hi there 👋
+# Maria Eduarda 
 
-<!--
-**Madu-25/Madu-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | SOC & Blue Team 
 
-Here are some ideas to get you started:
+I'm currently studying Cybersecurity at FIAP, with a focus on Security Operations, Blue Team and Threat Intelligence.
+I'm building hands-on experience through cybersecurity labs, CTFs and security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest 
+
+- SOC & Blue Team
+- Security Operations
+- Threat Intelligence
+- Vulnerability Management
+- Network Security
+
+## Currently Learning 
+
+- Wazuh
+- Linux
+- SIEM
+- MITRE ATT&CK
+- Network Security
+- Python & Bash for Security Automation
+
+---
+
+## Projects 
+
+Building hands-on cybersecurity projects and labs.
+
+## CTFs & Labs
+
+Hands-on practice through FIAP CTFs and TryHackMe labs. 
