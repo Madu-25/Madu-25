@@ -26,6 +26,19 @@ I'm building hands-on experience through cybersecurity labs, CTFs and security p
 
 ---
 
+### Technical Skills 
+
+- Linux
+- Wazuh
+- Wireshark
+- Nmap
+- Python
+- Bash
+- MITRE ATT&CK
+- Git & GitHub
+
+---
+
 ## Projects 
 
 Building hands-on cybersecurity projects and labs.
